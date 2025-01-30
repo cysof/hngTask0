@@ -16,7 +16,7 @@ async def get_info():
     return {
         "email": "cysofthome@gmail.com",
         "current_datetime": datetime.now(pytz.UTC).isoformat(),
-        "github_url": "https://github.com/cysof",
+        "github_url": "https://github.com/cysof/hngTask0",
         
     }
 

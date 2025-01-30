@@ -15,3 +15,16 @@ This is a simple FastAPI application that returns:
 - pip install fastapi
 - pip install uvicorn
 - pip install pytz
+
+#### API DOCUMENTATION
+Request Format:
+
+Method: GET
+URL: /home
+Headers: None
+Body: None
+Response Format:
+
+Status Code: 200 OK
+Content Type: application/json
+Body:

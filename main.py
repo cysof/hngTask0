@@ -11,7 +11,7 @@ class APIResponse(BaseModel):
     current_datetime: str
     github_url: str
     
-@app.get("/", response_model=APIResponse)
+@app.get("index", response_model=APIResponse)
 async def get_info():
     return {
         "email": "cysofthome@gmail.com",

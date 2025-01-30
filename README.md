@@ -20,7 +20,7 @@ This is a simple FastAPI application that returns:
 Request Format:
 
 Method: GET
-URL: /home
+URL: https://hngtask0-hzpz.onrender.com/
 Headers: None
 Body: None
 Response Format:
